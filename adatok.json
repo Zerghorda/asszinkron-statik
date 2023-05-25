@@ -1,0 +1,7 @@
+{
+    "szemelyek": [
+        { "nev": "Béla", "kor": 56, "nem": "ffi" },
+        { "nev": "Jenő", "kor": 16, "nem": "ffi" },
+        { "nev": "Rózsa", "kor": 33, "nem": "nő" }
+    ]
+}
